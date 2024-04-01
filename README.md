@@ -1,1 +1,1 @@
-🧱Big things are built one brick at a time.
+Big things are built one commit at a time.
