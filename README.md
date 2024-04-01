@@ -1,5 +1,5 @@
 <br>
 <br>
-<strong>Big things are built one commit at a time.</strong>🤖
+<strong><span>Big things are built one commit at a time.</span></strong>🤖
 <br>
 <br>
